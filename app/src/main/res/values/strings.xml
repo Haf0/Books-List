@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Books</string>
+    <string name="TopBarText">Book List</string>
+    <string name="LabelTextField">Search Book</string>
+    <string name="SearchTextHolder">Title</string>
+    <string name="Name">Name</string>
+    <string name="StudentNumber">Student Number</string>
+    <string name="Class">Class</string>
+    <string name="AboutApp">learning jetpack compose, room, and retrofit</string>
+    <string name="TextButton">Change Language</string>
+    <string name="Title">Title</string>
+    <string name="author">Author</string>
+    <string name="publisher">Publisher</string>
+    <string name="Year">Publication Year</string>
+    <string name="Category">Category</string>
+    <string name="Synopsis">Synopsis</string>
+    <string name="FavList">Favorite Books</string>
+    <string name="none">the book you are looking for was not found</string>
+    <string name="nol">you don\'t have a favorite book!</string>
+</resources>

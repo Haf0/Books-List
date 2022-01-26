@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Buku</string>
+    <string name="TopBarText">Daftar Buku</string>
+    <string name="LabelTextField">Cari Buku</string>
+    <string name="SearchTextHolder">Judul Buku</string>
+    <string name="Name">Nama</string>
+    <string name="StudentNumber">NIM</string>
+    <string name="Class">Kelas</string>
+    <string name="AboutApp">Belajar Jetpack Compose, room, dan retrofit</string>
+    <string name="TextButton">Ganti Bahas</string>
+    <string name="Title">Judul</string>
+    <string name="author">Pengarang</string>
+    <string name="publisher">Penerbit</string>
+    <string name="Year">Tahun Terbit</string>
+    <string name="Category">Kategori</string>
+    <string name="Synopsis">Sinopsis</string>
+    <string name="FavList">Buku Kesukaan</string>
+    <string name="none">Buku yang anda cari tidak ditemukan</string>
+    <string name="nol">anda tidak mempunyai buku kesukaan</string>
+</resources>
